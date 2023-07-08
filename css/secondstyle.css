@@ -1,0 +1,59 @@
+.container-fluid  {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+nav {
+    font-size: 20px;
+
+height: fit-content;
+  text-align: center;
+background-color: rgb(136, 161, 153);
+}
+
+h4{
+background-color: rgb(192, 238, 223);
+text-align: center;
+margin: 10px;
+}
+
+.estereo {
+    text-align: center;
+    font-weight: bold;
+   display: flex;
+   
+   display: block;
+}
+
+.estereo img {
+   display: flex;
+   border:  5px solid rgb(85, 57, 57);
+  display: inline-block;
+}
+
+.rey{
+    text-align: center;
+    font-weight: bold;
+   display: flex;
+
+   display: block
+}
+
+.rey img {
+    display: flex;
+   border:  5px solid rgb(90, 16, 16);
+  display: inline-block;
+}
+
+.rata { 
+    text-align: center;
+    font-weight: bold;
+   display: flex;
+
+   display: block
+}
+.rata img {
+    display: flex;
+   border:  5px solid rgb(40, 184, 100);
+  display: inline-block;
+}
